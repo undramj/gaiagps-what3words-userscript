@@ -7,6 +7,8 @@
 // @match        https://*.gaiagps.com/*
 // @match        https://gaiagps.com/*
 // @grant        none
+// @downloadURL  https://github.com/undramj/gaiagps-what3words-userscript.git
+// @updateURL    https://github.com/undramj/gaiagps-what3words-userscript.git
 // ==/UserScript==
 
 (function() {
